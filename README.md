@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de projetos acadêmicos e pessoais!
 
 - Sou estudante de Engenharia da Computação. 
-- Este repositório reúne uma coleção dos meus trabalhos e iniciativas que refletem meu desenvolvimento técnico ao longo da formação.
+- Este GitHub reúne uma coleção dos meus trabalhos e iniciativas que refletem meu desenvolvimento técnico ao longo da formação.
 
 ---
 ## 📬 Contato Profissional
