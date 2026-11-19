@@ -1,5 +1,5 @@
 ## Olá, sou o Marcos Cesar Neto, estudante de Engenharia da Computação  
->Estou aprendendo Engenharia da computação no CEUB!
+>Estou aprendendo Engenharia da computação
 
 > Estou aprendendo as linguagens: Java, Python e C
 
