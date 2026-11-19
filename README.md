@@ -1,13 +1,13 @@
-## Olá, sou o Marcos Cesar Neto, estudande de Engenharia da Computação  
+## Olá, sou o Marcos Cesar Neto, estudante de Engenharia da Computação  
 >Estou aprendendo Engenharia da computação no CEUB!
 
-> Estou aprendedo as linguagens: Java, Python e C
+> Estou aprendendo as linguagens: Java, Python e C
 
 ---
-## ✉️ Portifolio
+## ✉️ Portfólio
 [![Portfolio](https://img.shields.io/badge/Portfolio-%239945FF.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://github.com/Marcos-cn/portfolio-academico.git)
 
-## 📋 Linguagengen
+## 📋 Linguagem
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
